@@ -6,6 +6,8 @@ This was a project that I ended up completing, however it does not work anymore 
 Features:
 View all unopened snaps/videos, mark as read, add new friends, look at friends, see best friends, view all stories, compose new snaps w/ flash player PC camera integration, beautiful interface.
 
+I still have this hosted at http://vlad.tk/snapchat/, the client was used my many people since it's release and while it lasted.
+
 Note, this script is not maintained any more, this used to be a project in 2014-2015.
 
 The content of this project itself is licensed under the Creative Commons Attribution license.
